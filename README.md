@@ -12,7 +12,7 @@ Blends a solid color with input video using RGBA controls. Perfect for testing t
 
 ```bash
 # In Scope Settings > Plugins, install from:
-git+https://github.com/YOUR_USERNAME/scope-color-test.git
+git+https://github.com/andrwsun/scope-color-test.git
 ```
 
 ### Local Development
